@@ -8,4 +8,4 @@ Please follow the instruction given below. Find the relevant resources as well.
 2. Download and extract the cse-library-executor project .zip [file](https://drive.google.com/file/d/16LksP4XVCNQ6eGvXhgi-eYKchRi-orfj/view?usp=sharing).
 <br/> This file contains the cse-library-executor project. This will be used in group activity.
 3. Download the [CSE Workshop Notes.pdf](https://drive.google.com/file/d/1WXEEgOxLBtcZNOQLloDXYlMjbjpV5g8i/view?usp=sharing).
-4.Hi, I'm Tharaka and I update this.
+4. Hi, I'm Tharaka and I update this.
